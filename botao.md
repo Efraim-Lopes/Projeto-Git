@@ -1,0 +1,1 @@
+simulando uma nova feature do projeto a ser criada numa branch diferente da main
